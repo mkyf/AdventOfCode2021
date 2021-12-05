@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08cc8271-9dcb-4395-b5ac-024dc9342ffd" name="Changes" comment="" />
+    <list default="true" id="08cc8271-9dcb-4395-b5ac-024dc9342ffd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Day4Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Day4Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -21,6 +31,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="21mSSftmzz3m57iIMMWeKCejSRt" />
   <component name="ProjectViewState">
@@ -30,15 +43,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MkyFl\IdeaProjects\AdventOfCode2021\src\util" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Day4">
     <configuration name="Day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3.Day3" />
       <module name="AdventOfCode2021" />
@@ -52,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.Day4" />
+      <module name="AdventOfCode2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day4" />
         <item itemvalue="Application.Day3" />
       </list>
     </recent_temporary>
@@ -67,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638544771381</updated>
       <workItem from="1638544772878" duration="3926000" />
+      <workItem from="1638736401173" duration="5429000" />
     </task>
     <servers />
   </component>
