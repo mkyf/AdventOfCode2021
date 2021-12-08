@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08cc8271-9dcb-4395-b5ac-024dc9342ffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day6/Day6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/Day6Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6/Day6Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/Day7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/Day7Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7/Day7Test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\MkyFl\IdeaProjects\AdventOfCode2021\src\util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day6">
+  <component name="RunManager" selected="Application.Day7">
     <configuration name="Day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3.Day3" />
       <module name="AdventOfCode2021" />
@@ -104,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.Day7" />
+      <module name="AdventOfCode2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day7" />
         <item itemvalue="Application.Day6" />
         <item itemvalue="Application.Day5" />
         <item itemvalue="Application.Day4" />
